@@ -1,0 +1,22 @@
+th {
+    border: 1px solid black;
+    height: 35px;
+    width: 100px;
+    text-align: right;
+}
+td {
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    box-shadow: 0 1px darkviolet;
+}
+button {
+    border: 0px;
+    height: 37px;
+    width: 37px;
+}
+td:hover{
+    background-color: lightcyan;
+}
+
